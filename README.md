@@ -17,15 +17,6 @@
     <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
    </div>
-    
-  
-[  <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: leonardo.villalva.contato@gmail.com">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "https://www.linkedin.com/in/leonardo-oliveira-villalva-0993a7221/">
-      <img width="25" src="linkedin.svg">
-    </a>](url)
 </div>
   
 ![Snake animation](https://github.com/lhelheo/lhelheo/blob/output/github-contribution-grid-snake.svg)
