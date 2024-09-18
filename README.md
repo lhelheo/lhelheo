@@ -19,13 +19,13 @@
    </div>
     
   
-  <h1 align="center">Redes Sociais</h1>
+[  <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: leonardo.villalva.contato@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/leonardo-oliveira-villalva-0993a7221/">
       <img width="25" src="linkedin.svg">
-    </a>
+    </a>](url)
 </div>
   
 ![Snake animation](https://github.com/lhelheo/lhelheo/blob/output/github-contribution-grid-snake.svg)
