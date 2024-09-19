@@ -19,5 +19,6 @@
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
    </div>
 </div>
-  
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 ![Snake animation](https://github.com/lhelheo/lhelheo/blob/output/github-contribution-grid-snake.svg)
