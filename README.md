@@ -7,6 +7,8 @@
 </div>
 <br>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
@@ -20,5 +22,4 @@
    </div>
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 ![Snake animation](https://github.com/lhelheo/lhelheo/blob/output/github-contribution-grid-snake.svg)
