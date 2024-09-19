@@ -4,11 +4,11 @@
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=lhelheo&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhelheo&layout=compact&langs_count=16&theme=great-gatsby"/>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lhelheo)](https://git.io/streak-stats)
+  
 </div>
 <br>
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lhelheo)](https://git.io/streak-stats)
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
