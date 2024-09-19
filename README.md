@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/leonardo oliveira villalva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo oliveira villalva" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/leonardo-oliveira-villalva-0993a7221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo oliveira villalva" height="30" width="40" /></a>
 <a href="https://medium.com/@leonardo.villalva_92874" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@leonardo.villalva_92874" height="30" width="40" /></a>
 </p>
 
